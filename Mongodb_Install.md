@@ -1,4 +1,4 @@
-# To determine which Ubuntu release your host is running, run the following command on the host's terminal:
+To determine which Ubuntu release your host is running, run the following command on the host's terminal:
 ````
 cat /etc/lsb-release
 ````
